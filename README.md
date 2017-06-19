@@ -34,3 +34,12 @@ On the viewDidLoad method, i added this two lines to prepare the table view to c
 
 `tableView.estimatedRowHeight = 50`
 
+
+### Menor tamanho possível, com bold text:
+
+![screenshot 2017-06-19 16 45 38](https://user-images.githubusercontent.com/14113109/27302946-687a33a6-550f-11e7-8a4e-11305b77405a.png)
+
+### Maior tamanho possível, com bolt text:
+
+![screenshot 2017-06-19 16 46 45](https://user-images.githubusercontent.com/14113109/27302961-7a436436-550f-11e7-93a2-53dce013b5b7.png)
+
